@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "christian-kohler.npm-intellisense",
+        "ms-vscode-remote.remote-wsl"
+    ]
+}
