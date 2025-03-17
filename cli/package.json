@@ -11,7 +11,10 @@
     "build:watch": "tsc -w",
     "prepare": "yarn build"
   },
-  "keywords": ["code-server", "coder"],
+  "keywords": [
+    "code-server",
+    "coder"
+  ],
   "author": "coder",
   "publishConfig": {
     "access": "public"
