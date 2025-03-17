@@ -1,0 +1,7 @@
+{
+    "github-actions.workflows.pinned.workflows": [
+        "dynamic/codespaces/create_codespaces_prebuilds",
+        ".github/workflows/static.yml",
+        ".github/workflows/webpack.yml"
+    ]
+}
